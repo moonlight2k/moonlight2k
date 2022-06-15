@@ -1,6 +1,3 @@
-- I’m Moonlight 🌑
-- Coder 💻
-- Gamer 🎮
 - Solidity 
 - Typescript
 - Python
