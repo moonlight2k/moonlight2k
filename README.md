@@ -1,6 +1,5 @@
-- Solidity 
 - Typescript
-- Python
+- Solidity
 
 
 <!---
