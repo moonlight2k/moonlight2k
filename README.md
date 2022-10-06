@@ -12,5 +12,5 @@ I'm an aspiring Data Scientist. <br>I currently work with typescript and server-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moonlight2k&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlight2k&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=moonlight2k&icon=2&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
