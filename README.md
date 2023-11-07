@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an aspiring Data Scientist.<br>I currently work with typescript, angular and server-side languages like php with laravel.
+I love computers and technology and everything about them.<br>I currently working on becoming a network engineer.
 
 
 ## 🌐 Socials:
