@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love computers and technology and everything about them.<br>I currently working on becoming a network engineer.
+I love computers and technology and everything about them.<br>I'm currently working on becoming a network engineer.
 
 
 ## 🌐 Socials:
